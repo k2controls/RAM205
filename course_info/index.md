@@ -6,11 +6,8 @@ layout: default
 
 ## Course Information
 
-- [RAM205 Syllabus](EET260.Syllabus.pdf){:target="_blank"}
-- [Schedule](SprintSchedule.pdf){:target="_blank"}
-- [Class List/Teams](teams.md)
-- [Resources](../resources)
-- [Requirements](requirements.md)
+- [RAM205 Syllabus](RAM205.Syllabus.pdf){:target="_blank"}
+
 
 
 
