@@ -4,7 +4,7 @@ layout: default
 
 # RAM 205 - Robotics and Automation
 
-### Sprint 1
+### [RAM205](../) - Sprint 1
 
 - [Week 01](week01)
 - [Week 02](week02)
