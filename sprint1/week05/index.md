@@ -6,4 +6,22 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 1](../) - Week 5
 
-- [TBD]
+
+- Session 1
+    - Lamp Driver Project
+- Session 2
+    - TBD
+    
+---
+
+### Assignments
+
+- Digital Outputs
+- PE1: Module 2 Test
+
+- [Line Follower]
+
+---
+### Assignments
+- PE1: Module 2 Test
+

@@ -6,4 +6,16 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 2](../) - Week 
 
-- [TBD]
+- Session 1
+    -
+- Session 2
+    -
+    
+---
+
+### Assignments
+
+- None
+
+
+- [Ping/Sonar Class]

@@ -6,4 +6,13 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 1](../) - Week 2
 
-- [TBD]
+- Session 1
+    - [Power Sources]
+- Session 2
+    - Power Sources con't
+
+---
+
+### Assignments
+
+- PE1: Module 1 Quiz (screen capture)

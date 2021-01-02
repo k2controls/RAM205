@@ -6,4 +6,20 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 2](../) - Week 7
 
-- [TBD]
+- Session 1
+    -
+- Session 2
+    -
+    
+---
+
+### Assignments
+
+- None
+
+- [LF/Drive as a Class]
+
+---
+### Assignments
+- PE1: Module 3 Test
+

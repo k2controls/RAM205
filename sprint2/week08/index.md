@@ -6,4 +6,20 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 2](../) - Week 8
 
-- [TBD]
+- Session 1
+    -
+- Session 2
+    -
+    
+---
+
+### Assignments
+
+- None
+
+
+- [IR as a Class]
+
+---
+### Assignments
+- PE1: Module 4 Quiz
