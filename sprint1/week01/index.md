@@ -14,7 +14,10 @@ layout: default
 - Session 2
     - Python Language and Programming
     - PE1: Module 1 assigned
+
 ---
+
 ### Assignments
+
 - None
 
