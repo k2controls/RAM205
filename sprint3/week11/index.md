@@ -7,7 +7,7 @@ layout: default
 ### [RAM205](../../) - [Sprint 3](../) - Week 11
 
 - Session 1
-    -
+    - Ping/Sonar Class
 - Session 2
     -
     
@@ -15,6 +15,6 @@ layout: default
 
 ### Assignments
 
-- None
+- Line Follower Drive Project
+- PE1: Mod 4 Quiz
 
-- [Servo Class]

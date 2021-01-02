@@ -7,7 +7,8 @@ layout: default
 ### [RAM205](../../) - [Sprint 3](../) - Week 14
 
 - Session 1
-    -
+    - PE1 Summary Test Review
+    - Camera and gimbal control
 - Session 2
     -
     
@@ -15,6 +16,4 @@ layout: default
 
 ### Assignments
 
-- None
-
-- [TBD]
+- Servo Class

@@ -7,7 +7,7 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 
 
 - Session 1
-    -
+    - Introduction to Classes
 - Session 2
     -
     
@@ -15,7 +15,5 @@ layout: default
 
 ### Assignments
 
-- None
-
-
-- [Ping/Sonar Class]
+- Line Follower
+- PE1: Mod 3 Test

@@ -7,14 +7,14 @@ layout: default
 ### [RAM205](../../) - [Sprint 3](../) - Week 15
 
 - Session 1
-    -
+    - 
+    Wrap up
 - Session 2
-    -
+    - Python Certification Testing
     
 ---
 
 ### Assignments
 
-- None
-
-- [Python Review/Cert]
+- Camera/Gimbal
+- Python Cert Exam 

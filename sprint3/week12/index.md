@@ -7,14 +7,16 @@ layout: default
 ### [RAM205](../../) - [Sprint 3](../) - Week 12
 
 - Session 1
-    -
+    - PE1: Mod 4 Quiz Review
+    - Sonar/IR Drive
 - Session 2
-    -
+    - TBD
     
 ---
 
 ### Assignments
 
-- None
+- Ping/Sonar Due
+- PE1: Mod 4 Quiz
 
 - [Camera]

@@ -8,19 +8,15 @@ layout: default
 
 
 - Session 1
-    -
+    - PE1: Mod 2 Quiz Review
+    - Infrared Sensor Project
 - Session 2
-    -
+    -  Infrared Sensor Project con't
     
 ---
 
 ### Assignments
 
-- None
-
-- [Classes]
-
----
-### Assignments
-- PE1: Module 3 Quiz
+- Lamp Driver
+- PE1: Module 2 Test
 
