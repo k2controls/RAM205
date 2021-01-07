@@ -7,17 +7,22 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 1
 
 - Session 1
-    - Course Introduction
-    - piRover Review
-    - Python Certification Overview
-    - (kit build for new 205 students)
+    - [Course Introduction](../course_info/RAM205.Syllabus.pdf){:target="_blank"}
+    - piRover (Review and docs for prior RAM students)
+        - [part list](piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
+        - [build prep](piRoverBuild/piRoverBuildPreparatioin.pdf)
+        - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
+    - [Python Certification Overview](../python_cert)
+    
 - Session 2
-    - Python Language and Programming
+    - [Python Language and Programming](python/PythonIntroduction.pptx){:target="_blank"}
+    - [VS Code on Raspberry Pi](python/VisualStudioCodeGettingStarted.pptx){:target="_blank"}
     - PE1: Module 1 assigned
 
 ---
 
 ### Assignments
-
-- None
+- PE1: Module 1 (Quiz and Test in following weeks. See schedule)
+- (optional) Python and VS Code install on your workstation
+- (prior RAM students) piRover Build
 
