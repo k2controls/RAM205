@@ -19,4 +19,3 @@ layout: default
 - Ping/Sonar Due
 - PE1: Mod 4 Quiz
 
-- [Camera]

@@ -21,7 +21,4 @@ layout: default
 
 - [Line Follower]
 
----
-### Assignments
-- PE1: Module 2 Test
 
