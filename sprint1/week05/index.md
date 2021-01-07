@@ -17,7 +17,7 @@ layout: default
 ### Assignments
 
 - Digital Outputs
-- PE1: Module 2 Test
+- PE1: Module 2 Quiz
 
 - [Line Follower]
 
