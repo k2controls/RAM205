@@ -7,16 +7,16 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 1
 
 - Session 1
-    - [Course Introduction](../course_info/RAM205.Syllabus.pdf){:target="_blank"}
+    - [Course Introduction](../../course_info/RAM205.Syllabus.pdf){:target="_blank"}
     - piRover (Review and docs for prior RAM students)
         - [part list](piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
-        - [build prep](piRoverBuild/piRoverBuildPreparatioin.pdf)
+        - [build prep](piRoverBuild/piRoverBuildPreparation.pdf)
         - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
-    - [Python Certification Overview](../python_cert)
+    - [Python Certification Overview](../../python_cert)
     
 - Session 2
     - [Python Language and Programming](python/PythonIntroduction.pptx){:target="_blank"}
-    - [VS Code on Raspberry Pi](python/VisualStudioCodeGettingStarted.pptx){:target="_blank"}
+    - [VS Code on Raspberry Pi](python/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
     - PE1: Module 1 assigned
 
 ---
