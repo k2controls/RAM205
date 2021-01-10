@@ -25,4 +25,5 @@ layout: default
 - PE1: Module 1 (Quiz and Test in following weeks. See schedule)
 - (optional) Python and VS Code install on your workstation
 - (prior RAM students) piRover Build
+- System functional and battery full charged for Week 02
 
