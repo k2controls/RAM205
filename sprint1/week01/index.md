@@ -26,4 +26,12 @@ layout: default
 - (optional) Python and VS Code install on your workstation
 - (prior RAM students) piRover Build
 - System functional and battery full charged for Week 02
+- Submit to Week 01 assignment link.
+    - Document (.docx or .pdf but will need to be zipped) updating the instructor on the following items
+        1. Status of your piRover - functional?
+        2. How did you test?
+        3. Where will you be working from during most class periods?
+        4. What is your workstation configuration that you will use during class? Workstation? Multiple devices?
+        5. Do you have both mic and camera available for Zoom sessions?
+        6. How are you connecting to both Zoom and the piRover during class session?
 
