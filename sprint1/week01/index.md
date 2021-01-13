@@ -16,7 +16,16 @@ layout: default
     
 - Session 2
     - [Python Language and Programming](python/PythonIntroduction.pptx){:target="_blank"}
+    - Demo: Python on workstation
+    - Demo: Python on Raspberry Pi 
+    - [VS Code installation on workstation](https://code.visualstudio.com/Download){:target="_blank"}
+    - Demo: VS Code edit and debug
+        - wget –O guessing_game.py https://bit.ly/K2-python-guessing-game
+    - Demo: [Jupyter Notebook](python/Strings.ipynb)
     - [VS Code on Raspberry Pi](python/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
+    - Now supported on arm
+        - [debian install](https://snapcraft.io/install/code/debian){:target="_blank"}
+    - Demo: VS Code edit and debug
     - PE1: Module 1 assigned
 
 ---
