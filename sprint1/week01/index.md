@@ -27,6 +27,7 @@ layout: default
         - [debian install](https://snapcraft.io/install/code/debian){:target="_blank"}
     - Demo: VS Code edit and debug
     - PE1: Module 1 assigned
+    - this is a new item.
 
 ---
 
