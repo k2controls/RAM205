@@ -15,7 +15,7 @@ layout: default
     - [Python Certification Overview](../../python_cert)
     
 - Session 2
-    - [Python Language and Programming](python/PythonIntroduction.pptx){:target="_blank"}
+    - [Python Language and Programming](python/PythonIntroduction.pdf){:target="_blank"}
     - Demo: Python on workstation
     - Demo: Python on Raspberry Pi 
     - [VS Code installation on workstation](https://code.visualstudio.com/Download){:target="_blank"}
