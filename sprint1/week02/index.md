@@ -19,7 +19,7 @@ layout: default
 
 ---
 
-### Assignments
+### Assignments (submit in zip, see main Moodle page)
 
 - PE1: Module 1 Quiz (screen capture)
 - Power sources: Test Results Document with images, data, procedure, and summary
