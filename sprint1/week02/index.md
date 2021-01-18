@@ -11,14 +11,17 @@ layout: default
 
 - Session 2
     - Power Sources - con't
+        - Review class data
+        - Results discussion
     - GPIO Outputs - review
+        - LEDs
+        - Buzzer
 
 ---
 
 ### Assignments
 
 - PE1: Module 1 Quiz (screen capture)
-- Power source: images - current and voltage measurements
-- Power source: summary document
+- Power sources: Test Results Document with images, data, procedure, and summary
 
 
