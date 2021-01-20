@@ -11,11 +11,13 @@ layout: default
 
 - Session 2
     - Power Sources - con't
-        - Review class data
+        - Review [class data](power_supply_class_data.csv)
         - Results discussion
     - GPIO Outputs - review
         - LEDs
         - Buzzer
+        - Basic drive code
+    - Power supply test with drive load
 
 ---
 
