@@ -11,7 +11,7 @@ layout: default
 
 - Session 2
     - Power Sources - con't
-        - Review [class data](power_supply_class_data.csv)
+        - Review [class data](power_source/power_supply_class_data.csv)
         - Results discussion
     - piRover Hardware Review
         - [Yahboom Manual](http://www.yahboom.net/xiazai/Raspberry%20Pi%20G1/Download/Expansion%20Board%20Manual.zip)
