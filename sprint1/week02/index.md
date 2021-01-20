@@ -20,7 +20,9 @@ layout: default
         - LEDs
         - Buzzer
         - Basic drive code
+    - Battery test with drive load
     - Power supply test with drive load
+    -NOTE: Do not charge your battery with RAM205 Power Supply!
 
 ---
 
