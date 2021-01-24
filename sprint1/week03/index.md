@@ -9,7 +9,7 @@ layout: default
 - Session 1
     -PE1: Mod 1 Quiz Review
     - Power Sources - review from Week 02
-        - [class data](power_source/power_supply_class_data.csv)
+        - [class data](../week02/power_source/power_supply_class_data.csv)
         - Results discussion
     - piRover Hardware Review
         - [Yahboom Manual](http://www.yahboom.net/xiazai/Raspberry%20Pi%20G1/Download/Expansion%20Board%20Manual.zip)
