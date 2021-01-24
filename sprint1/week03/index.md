@@ -12,7 +12,7 @@ layout: default
         - [class data](../week02/power_source/power_supply_class_data.csv)
         - Results discussion
     - piRover Hardware Review
-        - [Yahboom Manual](http://www.yahboom.net/xiazai/Raspberry%20Pi%20G1/Download/Expansion%20Board%20Manual.zip)
+        - [Yahboom Manual](http://www.yahboom.net/xiazai/Raspberry%20Pi%20G1/Download/Expansion%20Board%20Manual.zip){:target="_blank"}
         - [GPIO definitions](../../resources/piRoverHardwareDefinition.pdf)
     - GPIO Outputs - review
         - LEDs (blink.py)
