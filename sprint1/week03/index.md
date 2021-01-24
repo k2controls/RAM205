@@ -7,7 +7,8 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 3
 
 - Session 1
-    -PE1: Mod 1 Quiz Review
+    - PE1: Mod 1 Quiz Review
+    - PE1: Mod 1 Test due this week
     - Power Sources - review from Week 02
         - [class data](../week02/power_source/power_supply_class_data.csv)
         - Results discussion
