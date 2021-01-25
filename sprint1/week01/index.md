@@ -14,9 +14,9 @@ layout: default
             - [build prep](piRoverBuild/piRoverBuildPreparation.pdf)
             - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
         - Configure
-            - [Configure and Connect](../../resource/ConfiguringTheRaspberryPi.pdf)
-            - [Disabling Yahboom](../../resource/DisablingYahboomBluetooth.pdf)
-            - [Install VS Code](../../resource/VisualStudioCodeGettingStarted.pdf)
+            - [Configure and Connect](../../resources/piRoverConfigure/ConfiguringTheRaspberryPi.pdf)
+            - [Disabling Yahboom](../../resources/piRoverConfigure/DisablingYahboomBluetooth.pdf)
+            - [Install VS Code](../../resources/piRoverConfigure/VisualStudioCodeGettingStarted.pdf)
     - [Python Certification Overview](../../python_cert)
     
 - Session 2
