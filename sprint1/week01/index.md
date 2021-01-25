@@ -9,9 +9,14 @@ layout: default
 - Session 1
     - [Course Introduction](../../course_info/RAM205.Syllabus.pdf){:target="_blank"}
     - piRover (Review and docs for prior RAM students)
-        - [part list](piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
-        - [build prep](piRoverBuild/piRoverBuildPreparation.pdf)
-        - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
+        - Build
+            - [part list](piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
+            - [build prep](piRoverBuild/piRoverBuildPreparation.pdf)
+            - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
+        - Configure
+            - [Configure and Connect](../../resource/ConfiguringTheRaspberryPi.pdf)
+            - [Disabling Yahboom](../../resource/DisablingYahboomBluetooth.pdf)
+            - [Install VS Code](../../resource/VisualStudioCodeGettingStarted.pdf)
     - [Python Certification Overview](../../python_cert)
     
 - Session 2
