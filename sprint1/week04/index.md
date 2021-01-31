@@ -8,15 +8,16 @@ layout: default
 
 - Session 1
     - PE1: Mod 1 Quiz Review
-    - Digital Outputs
+    - [Digital Outputs - Introdution](RAM205.DigitalOutputs.docx)
 - Session 2
-    - Digital Outputs - coding
-    - PWM Outputs
+    - Digital Outputs - Driving high current loads.
+
     
 ---
 
 ### Assignments
 
-- Digital Inputs
+- Digital Outputs - Introduction - submit completed .docx or .pdf file
+- igital Outputs - High current drive - submit completed .docx or .pdf file
 
 
