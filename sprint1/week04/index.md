@@ -8,7 +8,7 @@ layout: default
 
 - Session 1
     - PE1: Mod 1 Quiz Review
-    - [Digital Outputs - Introdution](RAM205.DigitalOutputs.docx)
+    - [Digital Outputs - Introduction](RAM205.DigitalOutputs.docx)
 - Session 2
     - Digital Outputs - Driving high current loads.
 
