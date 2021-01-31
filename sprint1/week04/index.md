@@ -18,6 +18,6 @@ layout: default
 ### Assignments
 
 - Digital Outputs - Introduction - submit completed .docx or .pdf file
-- igital Outputs - High current drive - submit completed .docx or .pdf file
+- Digital Outputs - High current drive - submit completed .docx or .pdf file
 
 
