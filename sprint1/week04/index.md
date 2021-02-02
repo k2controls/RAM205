@@ -10,7 +10,7 @@ layout: default
     - PE1: Mod 1 Quiz Review
     - [Digital Outputs - Introduction](RAM205.DigitalOutputs.docx)
 - Session 2
-    - Digital Outputs - Driving high current loads.
+    - [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"}
 
     
 ---
@@ -18,6 +18,4 @@ layout: default
 ### Assignments
 
 - Digital Outputs - Introduction - submit completed .docx or .pdf file
-- Digital Outputs - High current drive - submit completed .docx or .pdf file
-
-
+- Digital Outputs - High current drive - be prepared to demo and share your code during the next class period.
