@@ -10,9 +10,9 @@ layout: default
     - [Course Introduction](../../course_info/RAM205.Syllabus.pdf){:target="_blank"}
     - piRover (Review and docs for prior RAM students)
         - Build
-            - [part list](piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
-            - [build prep](piRoverBuild/piRoverBuildPreparation.pdf)
-            - [build](piRoverBuild/piRoverBuild.pdf){:target="_blank"}
+            - [part list](../../resources/piRoverBuild/Parts_piRover_V3_F20.pdf){:target="_blank"}
+            - [build prep](../../resources/piRoverBuild/piRoverBuild/piRoverBuildPreparation.pdf)
+            - [build](../../resources/piRoverBuild/piRoverBuild/piRoverBuild.pdf){:target="_blank"}
         - Configure
             - [Configure and Connect](../../resources/piRoverConfigure/ConfiguringTheRaspberryPi.pdf)
             - [Disabling Yahboom](../../resources/piRoverConfigure/DisablingYahboomBluetooth.pdf)
