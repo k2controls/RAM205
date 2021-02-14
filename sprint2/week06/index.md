@@ -9,15 +9,18 @@ layout: default
 
 - Session 1
     - PE1: Mod 2 Quiz Review
+    - piRover_warner - on and off functionality? Refactor?
     - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf)
 - Session 2
-    - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.pdf)
+    - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf)
     
 ---
 
 ### Assignments
 
 - PE1: Module 2 Test
+- switch_test.py
+- piRover_switch.py
+- piRover_warner.py (refactored)
 - Digital Inputs Lab Check
-- Digital Inputs worksheet
 
