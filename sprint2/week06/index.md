@@ -9,14 +9,15 @@ layout: default
 
 - Session 1
     - PE1: Mod 2 Quiz Review
-    - Infrared Sensor Project
+    - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf)
 - Session 2
-    -  Infrared Sensor Project con't
+    - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.pdf)
     
 ---
 
 ### Assignments
 
-- Lamp Driver
 - PE1: Module 2 Test
+- Digital Inputs Lab Check
+- Digital Inputs worksheet
 
