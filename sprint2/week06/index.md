@@ -9,6 +9,7 @@ layout: default
 
 - Session 1
     - PE1: Mod 2 Quiz Review
+    - High-side, low-side switching - Week 4 review
     - piRover_warner - on and off functionality? Refactor?
     - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf)
 - Session 2
