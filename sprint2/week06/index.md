@@ -12,9 +12,9 @@ layout: default
     - PE1: Mod 2 Quiz Review
     - High-side, low-side switching - Week 4 review
     - piRover_warner - on and off functionality? Refactor?
-    - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf)
+    - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf){:target="_blank"}
 - Session 2
-    - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf)
+    - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
     
 ---
 
