@@ -8,6 +8,7 @@ layout: default
 
 
 - Session 1
+    - Starting sprint 2. Sprint 1 = 120 pts. (I'm still grading reports from w03)
     - PE1: Mod 2 Quiz Review
     - High-side, low-side switching - Week 4 review
     - piRover_warner - on and off functionality? Refactor?
