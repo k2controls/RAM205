@@ -14,6 +14,7 @@ layout: default
     - piRover_warner - on and off functionality? Refactor?
     - [Digital Inputs - Introduction](RAM205.DigitalInputs.pdf){:target="_blank"}
 - Session 2
+    - Digital Inputs (con't)
     - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
     
 ---
