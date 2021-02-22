@@ -8,6 +8,7 @@ layout: default
 
 
 - Session 1
+    - Sprint 1 grading completed (140pts)
     - PE1: Module 2 Test Review/Module 3 Preparation
     - Certification testing - PS203 on Wed, Apr 21
     - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
