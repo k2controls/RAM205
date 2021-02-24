@@ -16,9 +16,12 @@ layout: default
     - Introduction to Classes in Python - Dog class
     
 - Session 2
-    - Servo as a module
+    - LED as a class
+    - RGBLED as a class
+    - Buzzer as a class
+    - Warner as a class
     - Servo as a class
-    - Testing servo class using piRover_bluetooth
+
 
 ---
 
@@ -26,6 +29,7 @@ layout: default
 
 - PE1: Module 3 in-progress, work through labs!
 - SignalConditioning-worksheet (.docs or .pdf)
-- piRoverServo.py
-- piRover_bluetooth.py
-- piRover_servo_test.py
+- LED.py, test_led.py
+- RGBLED.py, test_rgb_led.py
+- Buzzer.py, test_buzzer.py
+- Warner.py, test_warner.py
