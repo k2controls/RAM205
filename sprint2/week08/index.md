@@ -9,7 +9,7 @@ layout: default
 - Session 1
     - PE1: Module 3 Coding
     - RAM 155 Drive Code Review
-        - [bt_test.py](codeRAM155/bt_testl.py)
+        - [bt_test.py](codeRAM155/bt_test.py)
         - [piRover_bluetooth.py](codeRAM155/piRover_bluetooth.py)
         - [piRover_drive.py](codeRAM155/piRover_drive.py)
         - [remote_service.py](codeRAM155/remote_service.py)
