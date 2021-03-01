@@ -1,7 +1,7 @@
 ''' Test code for piRover Bluetooth
 '''
 import time
-from piRover_Bluetooth import Bluetooth, Action
+from piRover_bluetooth import Bluetooth, Action
 
 bt = Bluetooth()
 while(True):

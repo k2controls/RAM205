@@ -7,7 +7,7 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 8
 
 - Session 1
-    - PE1: Module 3 Coding
+    - PE1: Module 3 Coding (up to bitwise)
     - RAM 155 Drive Code Review
         - [bt_test.py](codeRAM155/bt_test.py)
         - [piRover_bluetooth.py](codeRAM155/piRover_bluetooth.py)
@@ -16,6 +16,7 @@ layout: default
     - RoverDrive as a class 
 
 - Session 2
+    - PE1: Module 3 Coding (bitwise and data structures)
     - RoverDrive as a class
     - LineFollower as a class
     - Line Follower application 
@@ -29,4 +30,4 @@ layout: default
 - test_rover_drive.py
 - LineFollower.py
 - test_line_follower.py
-- line_follower_service.py
+- DriveMotion.py
