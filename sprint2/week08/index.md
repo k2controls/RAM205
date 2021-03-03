@@ -18,8 +18,8 @@ layout: default
 - Session 2
     - PE1: Module 3 Coding (bitwise and data structures)
     - RoverDrive as a class
-    - LineFollower as a class
-    - Line Follower application 
+    - ---LineFollower as a class---
+    - ---Line Follower application--- 
     
 ---
 
@@ -28,6 +28,6 @@ layout: default
 - PE1: Mod 3 Quiz
 - RoverDrive.py
 - test_rover_drive.py
-- LineFollower.py
-- test_line_follower.py
-- DriveMotion.py
+- ---LineFollower.py---
+- ---test_line_follower.py---
+- ---DriveMotion.py---
