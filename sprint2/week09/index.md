@@ -15,6 +15,7 @@ layout: default
 - Session 2
     - Line Follower as a Class
     - Testing line follower application
+    
 ---
 
 ### Assignments
