@@ -7,7 +7,7 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 09
 
 - Session 1
-    - Review of Yahboom coding
+    - Review of [Yahboom coding](code/YahboomLineTracker.py)
     - RoverDrive as a class
     - Motion class for string messaging
     - Testing RoverClass with Motion Class
