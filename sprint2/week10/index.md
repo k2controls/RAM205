@@ -9,12 +9,25 @@ layout: default
 
 - Session 1
     - PE1: Mod 3 Test Review
-    - Line Follower Drive
+    - SP3: Final Project - RoverSService
+    - System Specification/Design
+        - Requirement review
+        - Main controller requirements
+        - Control pad requirements
+        - Line Follower requirements (including exit)
+        - Colorful Search requirements(including exit)
+        - Obstacle Detect requirement(including exit)
+        - Camera/Gimbal Drive requirments (including exit)
+        - RoverBluetooth (piRover_Bluetooth refactored)
+
 - Session 2
-    - TBD
+    - RoverBluetooth.py
+    - RoverService.py (main)
     
 ---
 
 ### Assignments
 
-- Intro to Classes
+- PE1: Module 4 in-progress, review next week
+- RoverBluetooth.py
+- RoverService.py
